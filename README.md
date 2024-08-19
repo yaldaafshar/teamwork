@@ -1,4 +1,6 @@
-# cpsc671-hw-problem9
+## Description
+- This project was a collaborative effort for database course showcasing the integration of frontend and backend technologies.
+- Technoclogies used: React, JavaScript, CSS, MongoDB, Node.js
 ## Features
 - User Authentication: Users can register or login to access the services, ensuring a personalized experience.
 - Service Creation: Service providers can easily create a wide range of offerings, including gardening, babysitting, pet sitting, tutoring, driving, and catering. They can specify key details such as cost, location, expertise level, and service description.
