@@ -38,18 +38,21 @@ NO_IMAGE_URL=sample_images/no_image.jpg
 3. execute "yarn dev"
 
 # Images
-## SIGN IN PAGE
+## Sign In
 
 ![signIn](https://github.com/yaldaafshar/teamwork/blob/main/signIn.JPG)
 
-## CREATE A SERVICE PAGE
+## Create a Service
 
-![create](https://github.com/yaldaafshar/teamwork/blob/main/create.JPG)
+![create](https://github.com/yaldaafshar/teamwork/blob/main/CreateService.png)
+
+## Service Management
+![manage](https://github.com/yaldaafshar/teamwork/blob/main/Services.png)
 
 ## Sort Based on Service Type
 
-![Sort](https://github.com/yaldaafshar/teamwork/blob/main/Gas.JPG)
+![Sort](https://github.com/yaldaafshar/teamwork/blob/main/SortBy.png)
 
 ## Review a Service
 
-![Review](https://github.com/yaldaafshar/teamwork/blob/main/review.JPG)
+![Review](https://github.com/yaldaafshar/teamwork/blob/main/Reviews.png)
