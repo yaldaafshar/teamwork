@@ -1,4 +1,11 @@
 # cpsc671-hw-problem9
+## Features
+- User Authentication: Users can register or login to access the services, ensuring a personalized experience.
+- Service Creation: Service providers can easily create a wide range of offerings, including gardening, babysitting, pet sitting, tutoring, driving, and catering. They can specify key details such as cost, location, expertise level, and service description.
+- Service Deactivation: Service providers have the option to deactivate services as needed.
+- Service Requests: Users can explore available services and submit requests. Service providers can approve these requests, initiating the service process.
+- Reviews and Ratings: Upon completion of a service, users can leave reviews and ratings, providing valuable feedback for others.
+- Sorting and Filtering: Users can seamlessly sort services by rate and location, and apply category filters, providing a user-friendly search experience.
 ## Requirments
 1. Node.js and npm
 2. Yarn
